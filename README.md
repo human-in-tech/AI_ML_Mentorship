@@ -1,1 +1,2 @@
-This repository has been made to store projects assigned to the student Khyati Singh in their AI-ML classes.
+This repository was made to store projects assigned to me by TechNeeds  (AI-ML).
+The repository is no longer being maintained.
